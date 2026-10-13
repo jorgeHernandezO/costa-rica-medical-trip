@@ -3,8 +3,10 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Phone, MessageCircle } from "lucide-react";
+import React, { Suspense } from "react";
 
-export default function Header({ lang }: { lang: string }) {
+// 1. Separamos el contenido original en este componente para que usePathname no bloquee el build
+function HeaderContent({ lang }: { lang: string }) {
   const pathname = usePathname();
 
   const switchLanguage = (newLang: string) => {
@@ -123,5 +125,14 @@ export default function Header({ lang }: { lang: string }) {
       </div>
 
     </header>
+  );
+}
+
+// 2. Exportamos el componente envuelto en Suspense
+export default function Header({ lang }: { lang: string }) {
+  return (
+    <Suspense fallback={<div className="h-24 bg-white sticky top-0 z-50 shadow-sm" />}>
+      <HeaderContent lang={lang} />
+    </Suspense>
   );
 }

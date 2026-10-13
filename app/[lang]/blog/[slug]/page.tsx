@@ -1,4 +1,4 @@
-import { blogData } from "../../../data/blog";
+import { blogData } from "../../../../data/blog";
 import Link from "next/link";
 import { ChevronLeft } from "lucide-react";
 

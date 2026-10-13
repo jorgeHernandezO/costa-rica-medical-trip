@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "titleStart": "Transform Your Smile and Save Up to",
+    "titleHighlight": "60%",
+    "subtitle": "Certified specialists in dental implants, aesthetics, and full oral rehabilitation for US, Canadian, and local patients.",
+    "cta": "Get a Quote",
+    "rating": "based on satisfied international patients."
+  },
+  "guarantees": {
+    "specialists": { "title": "Certified Specialists", "desc": "Advanced training in oral implantology and aesthetics." },
+    "materials": { "title": "FDA & ADA Materials", "desc": "We use world-class brands with backed guarantees." },
+    "logistics": { "title": "Travel Logistics", "desc": "Comprehensive assistance with transportation and appointment coordination." },
+    "tech": { "title": "Cutting-Edge Technology", "desc": "3D diagnostics and optimized times for medical tourists." }
+  },
+  "treatments": {
+    "badge": "Dental Excellence", "title": "Our Featured Treatments",
+    "implants": { "tag": "Rehabilitation", "title": "Implantes Dentales", "desc": "Permanently replace missing teeth.", "bullet1": "Osseointegration", "bullet2": "Natural appearance" },
+    "smile": { "tag": "VIP Aesthetics", "title": "Smile Design", "desc": "Harmonize the color and shape of your teeth.", "bullet1": "Digital study", "bullet2": "Long-lasting durability" },
+    "tourism": { "tag": "Medical Tourism", "title": "Dental Vacation", "desc": "Receive world-class care in Costa Rica.", "bullet1": "Hotel guide", "bullet2": "Huge savings" },
+    "more": "Learn more", "options": "View options", "plan": "Plan my trip"
+  },
+  "process": {
+    "badge": "Easy and Transparent", "title": "How Does Your Dental Trip Work?",
+    "step1": { "title": "Virtual Consultation", "desc": "Send us your photos and receive a free quote." },
+    "step2": { "title": "Coordination", "desc": "We assist you with hotels and transfers." },
+    "step3": { "title": "Treatment", "desc": "Care provided by certified specialists." },
+    "step4": { "title": "Recovery", "desc": "Enjoy your trip and return with a renewed smile." }
+  },
+  "cta": {
+    "title": "Ready to take the first step towards your new smile?", "button": "💬 Contact us, click here!!!", "location": "Sabana Norte, San José, Costa Rica."
+  }
+}

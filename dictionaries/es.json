@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "titleStart": "Transforme su Sonrisa y Ahorre Hasta un",
+    "titleHighlight": "60%",
+    "subtitle": "Especialistas certificados en implantes dentales, estética y rehabilitación oral completa para pacientes de EE. UU., Canadá y locales.",
+    "cta": "Solicitar Valoración",
+    "rating": "basado en pacientes internacionales satisfechos."
+  },
+  "guarantees": {
+    "specialists": { "title": "Especialistas Certificados", "desc": "Formación avanzada en implantología oral y estética." },
+    "materials": { "title": "Materiales FDA y ADA", "desc": "Utilizamos marcas de clase mundial con garantía respaldada." },
+    "logistics": { "title": "Logística de Viaje", "desc": "Asistencia integral en transporte y coordinación de citas." },
+    "tech": { "title": "Tecnología de Punta", "desc": "Diagnóstico 3D y tiempos optimizados para turistas médicos." }
+  },
+  "treatments": {
+    "badge": "Excelencia Dental", "title": "Nuestros Tratamientos Destacados",
+    "implants": { "tag": "Rehabilitación", "title": "Implantes Dentales", "desc": "Reemplace piezas faltantes de forma permanente.", "bullet1": "Osteointegración", "bullet2": "Apariencia natural" },
+    "smile": { "tag": "Estética VIP", "title": "Diseño de Sonrisa", "desc": "Armonice el color y la forma de sus dientes.", "bullet1": "Estudio digital", "bullet2": "Durabilidad a largo plazo" },
+    "tourism": { "tag": "Turismo Médico", "title": "Turismo Dental", "desc": "Reciba atención de clase mundial en Costa Rica.", "bullet1": "Guía de hoteles", "bullet2": "Ahorros masivos" },
+    "more": "Saber más", "options": "Ver opciones", "plan": "Planificar mi viaje"
+  },
+  "process": {
+    "badge": "Fácil y Transparente", "title": "¿Cómo Funciona su Viaje Dental?",
+    "step1": { "title": "Consulta Virtual", "desc": "Envíenos sus fotos y reciba una cotización gratuita." },
+    "step2": { "title": "Coordinación", "desc": "Le ayudamos con hoteles y traslados." },
+    "step3": { "title": "Tratamiento", "desc": "Atención brindada por especialistas certificados." },
+    "step4": { "title": "Recuperación", "desc": "Disfrute su viaje y regrese con una sonrisa renovada." }
+  },
+  "cta": {
+    "title": "¿Listo para dar el primer paso hacia su nueva sonrisa?", "button": "💬 Contáctenos, haga clic aquí", "location": "Sabana Norte, San José, Costa Rica."
+  }
+}
